@@ -1,7 +1,11 @@
 # Table of contents
 
-* [Overview of Harmony](README.md)
+* [Overview](README.md)
 * [Getting started](getting-started.md)
+
+## Overview
+
+* [What is Harmony?](overview-1/what-is-harmony.md)
 
 ## Test design
 
