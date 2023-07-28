@@ -1,2 +1,2 @@
-# docs
-Harmony user documentation
+# Introduction to Harmony
+
