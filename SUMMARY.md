@@ -1,16 +1,16 @@
 # Table of contents
 
-* [Introduction to Harmony](README.md)
+* [Overview of Harmony](README.md)
 * [Getting started](getting-started.md)
 
-## Designing tests
+## Test design
 
-* [Introduction to test design](designing-tests/introduction-to-test-design.md)
+* [Introduction to test design](test-design/introduction-to-test-design.md)
 
-## Automating tests
+## Test automation
 
-* [Introduction to test automation](automating-tests/introduction-to-test-automation.md)
-* [Page 3](automating-tests/page-3.md)
+* [Introduction to test automation](test-automation/introduction-to-test-automation.md)
+* [Page 3](test-automation/page-3.md)
 
 ## Configuration
 
@@ -20,3 +20,7 @@
 ## Reference
 
 * [Glossary](reference/glossary.md)
+
+***
+
+* [Table of contents](table-of-contents.md)
